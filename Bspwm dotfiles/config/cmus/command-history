@@ -1,0 +1,27 @@
+colorscheme night
+colorscheme zenburn
+colorscheme solarized-dark
+colorscheme dracula
+colorscheme jellybeans
+colorscheme illyria-light
+colorscheme illyria-dark
+colorscheme gruvbox_redux
+colorscheme gruvbox-warm
+colorscheme gruvbox-night
+colorscheme gruvbox-alt
+colorscheme gruvbox
+colorscheme groove_grove
+colorscheme green-mono-88
+colorscheme green
+colorscheme default
+colorscheme amazon
+colorscheme gray-88
+colorscheme cyan
+add -p ~/Music/Without-Me.mp3
+add -p ~/Music/The-real-Slim-Shady-nonclean-version.mp3
+pl-create m&m
+add pl
+set mpris=false
+set mpris false
+q
+Q
