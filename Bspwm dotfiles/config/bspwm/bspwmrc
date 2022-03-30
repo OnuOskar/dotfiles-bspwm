@@ -18,5 +18,5 @@ bspc rule -a Screenkey manage=off
 
 dunst &
 picom &
-feh --bg-fill Wallpapers/astolfo-pixiv-widescreen3.jpg &
+feh --bg-fill ~/Wallpapers/astolfo-pixiv-widescreen3.jpg &
 ./.config/polybar/launch.sh &
